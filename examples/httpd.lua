@@ -1,7 +1,5 @@
 package.path = package.path .. ";../src/?.lua"
 
-require "HttpServer"package.path = package.path .. ";../src/?.lua"
-
 require "HttpServer"
 require "VirtualHost"
 
